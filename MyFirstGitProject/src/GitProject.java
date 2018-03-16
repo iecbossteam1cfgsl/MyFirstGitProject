@@ -13,4 +13,7 @@ public class GitProject {
 	private void showMessage1() {
 		System.out.println("Message 1 from iecprog1teamcfgsl");
 	}
+	private void showMessage2() {
+		System.out.println("Message 2 from iecprog1teamcfgsl");
+	}
 }
